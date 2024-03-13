@@ -1,0 +1,4 @@
+*.docx
+*.drawio
+pyrightconfig.json
+__pycache__/
